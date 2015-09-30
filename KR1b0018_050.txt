@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 50
+#+DATE: 2015-08-24 22:02:10.736096
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十
 <pb:KR1b0018_WYG_050-1a>¶
 欽定四庫全書¶
 　尚書精義卷五十　　　　　宗　黄倫　撰¶
@@ -269,4 +271,3 @@
 俾不達是不能容以不能保我子孫黎民亦曰殆哉邦¶
 之杌隉曰由一人邦之榮懷亦尚一人之慶(按此篇經/解永樂大)¶
 (典原/缺)¶
-

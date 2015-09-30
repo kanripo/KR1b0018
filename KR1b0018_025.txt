@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:02:10.247284
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR1b0018_WYG_025-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十五　　　　宋　黄倫　撰¶
@@ -411,4 +413,3 @@
 　初心接續不畏怯不殺戮只曰我能伐紂便失了本¶
 　心何故益天伐紂不是周伐紂如曰周伐紂而不曰¶
 　天伐紂周如何以伐紂又要去孜孜歟恭字須㸔¶
-

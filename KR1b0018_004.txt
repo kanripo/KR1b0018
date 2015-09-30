@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:02:09.846381
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1b0018_WYG_004-1a>¶
 欽定四庫全書¶
 　尚書精義卷四　　　　　宋　黄倫　撰¶
@@ -438,4 +440,3 @@
 　下土方設居方别生分類作汨作汨謂之治作謂之¶
 　興言其治功之興也九共九篇則其義亡矣凡師枯¶
 　槁則為賜酒食以飫之故作稾飫¶
-

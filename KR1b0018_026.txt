@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:02:10.267468
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1b0018_WYG_026-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十六　　　　宋　黄倫　撰¶
@@ -281,4 +283,3 @@
 　又不是湯不如武王到武王之時上承太王王季文¶
 　王許多人積累之徳民心薰蒸之久啟既開此門武¶
 　王到此因而又與閉了此門¶
-

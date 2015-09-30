@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:02:10.577684
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二
 <pb:KR1b0018_WYG_042-1a>¶
 欽定四庫全書¶
 　尚書精義卷四十二　　　　宋　黄倫　撰¶
@@ -405,4 +407,3 @@
 　宥罪再與他起頭説而今正是爾起頭為善時節爾¶
 　若自後更不能親睦王室到得後來被罰那時却不¶
 　可怨我以此見周公之於民尤惇篤懇切¶
-

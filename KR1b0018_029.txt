@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:02:10.311398
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1b0018_WYG_029-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十九　　　　宋　黄倫　撰¶
@@ -391,4 +393,3 @@
 　民父母者親之者也為天下王者尊之者也親之者¶
 <pb:KR1b0018_WYG_029-22b>¶
 　仁也尊之者義也皇極之道仁義而已¶
-

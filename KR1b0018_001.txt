@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:09.785556
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0018_WYG_001-1a>¶
 欽定四庫全書¶
 　尚書精義卷一　　　　　　宋　黄倫　撰¶
@@ -341,4 +343,3 @@
 　云宅嵎夷秋云宅西推秋之西而知嵎夷為東也夏¶
 　云宅南交冬云宅朔方推夏之南而知朔方為北也¶
 　此葢堯舜時四境四嶽所統故舉以言之爾¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:02:09.920439
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1b0018_WYG_008-1a>¶
 欽定四庫全書¶
 　尚書精義卷八　　　　　　宋　黄倫　撰¶
@@ -292,4 +294,3 @@
 　無不美人君細碎無大畧則羣臣不盡力羣臣不盡¶
 <pb:KR1b0018_WYG_008-17a>¶
 　力則萬事皆廢壞此二者治亂之至要也¶
-

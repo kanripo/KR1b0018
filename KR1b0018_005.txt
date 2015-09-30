@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:02:09.868703
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1b0018_WYG_005-1a>¶
 欽定四庫全書¶
 　尚書精義卷五　　　　　　宋　黄倫　撰¶
@@ -387,4 +389,3 @@
 　天下之民莫不披靡而従焉此之謂風動自非臯陶¶
 　用刑之效安能至於是哉故曰惟乃之休休者以其¶
 　有美道可以為人所依故也¶
-

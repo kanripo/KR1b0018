@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:02:10.283448
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1b0018_WYG_027-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十七　　　　宋　黄倫　撰¶
@@ -330,4 +332,3 @@
 　已此盖有説也孟子所以不信其言者甚嚴盖戰國¶
 　之時殺人盈地孟子盖欲杜絶其言培飬生意不得¶
 　不發為之説恐當此時藉此恣殺人也¶
-

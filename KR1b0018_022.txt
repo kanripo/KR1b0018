@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:02:10.192609
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1b0018_WYG_022-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十二　　　　宋　黄倫　撰¶
@@ -421,4 +423,3 @@
 　吳氏曰傳謂特豐於近廟非也且祭祀豐年不奢凶¶
 　年不儉此篇亦無豐厚之文但以祭之失因戒之耳¶
 　故當以豐為風字言其風化於近以及逺也¶
-

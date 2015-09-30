@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:02:09.987631
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1b0018_WYG_012-1a>¶
 欽定四庫全書¶
 　尚書精義卷十二　　　　　宋　黄倫　撰¶
@@ -356,4 +358,3 @@
 <pb:KR1b0018_WYG_012-20b>¶
 東漸于海西被于流沙朔南暨聲敎訖于四海禹錫𤣥¶
 圭告厥成功(按此條經觧永/樂大典原闕)¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:02:10.488486
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR1b0018_WYG_038-1a>¶
 欽定四庫全書¶
 　尚書精義卷三十八　　　　宋　黄倫　撰¶
@@ -460,4 +462,3 @@
 　林氏曰前言逸祝所以告神也後言逸誥所以告伯¶
 　禽也至若周公誕保文武受命惟七年者葢史氏記¶
 　攝政之厯年至是而復辟也¶
-

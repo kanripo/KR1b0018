@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:02:10.166911
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1b0018_WYG_021-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十一　　　　宋　黄倫　撰¶
@@ -528,4 +530,3 @@
 　可佩服而行使爾當初不良其言以教我則我何縁¶
 　有所聞而見於行觀髙宗此言便見得髙宗已下工¶
 　夫説話¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:02:10.472421
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十七
 <pb:KR1b0018_WYG_037-1a>¶
 欽定四庫全書¶
 　尚書精義卷三十七　　　　宋　黄倫　撰¶
@@ -290,4 +292,3 @@
 　所以言讎民者只因成王之時商民尚在伺候成王¶
 　手差脚跌便來乘間投隙其勢甚可畏此只欲警戒¶
 　成王初不是分為二體¶
-

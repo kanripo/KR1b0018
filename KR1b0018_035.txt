@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 35
+#+DATE: 2015-08-24 22:02:10.434770
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR1b0018_WYG_035-1a>¶
 欽定四庫全書¶
 　尚書精義卷三十五　　　　宋　黄倫　撰¶
@@ -317,4 +319,3 @@
 　自副用逸以保其宴安盖以其克永觀省作稽中德¶
 　故也人臣能盡此道則上足以為天之所助下足以¶
 　為王之所紀兹亦惟天若元德則天順而助之矣¶
-

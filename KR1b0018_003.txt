@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:02:09.826397
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0018_WYG_003-1a>¶
 欽定四庫全書¶
 　尚書精義卷三　　　　　　宋　黄倫　撰¶
@@ -385,4 +387,3 @@
 　已足可夸而況三年之乆乎夫其所以愁苦必有以¶
 　也一方如此且足以為美談而況四海皆如此嗚呼¶
 　堯之徳其大矣哉¶
-

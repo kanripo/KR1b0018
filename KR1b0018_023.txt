@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書精義
-#+DATE: 2015-09-23 09:35:59
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:02:10.216903
+#+PROPERTY: ID KR1b0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1b0018_WYG_023-1a>¶
 欽定四庫全書¶
 　尚書精義卷二十三　　　　宋　黄倫　撰¶
@@ -429,4 +431,3 @@
 　能聴箕子舊日曾言立微子紂之心到今亦不能無¶
 　疑惟微子既出則紂無疑心無疑心箕子庶可與紂¶
 　説話¶
-
